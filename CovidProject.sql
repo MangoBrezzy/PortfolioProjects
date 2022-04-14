@@ -1,3 +1,4 @@
+--Sourced my data from https://ourworldindata.org/covid-deaths
 
 Select * 
 from dbo.CovidVaccinations$ 
