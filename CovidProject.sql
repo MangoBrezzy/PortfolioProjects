@@ -1,5 +1,8 @@
 --Sourced my data from https://ourworldindata.org/covid-deaths
-
+--Created two seperate tables 
+  --1.Covideaths table
+  --2.CovidVaccination table 
+  --Both table relations come from the date and location
 Select * 
 from dbo.CovidVaccinations$ 
 order by 3,4
